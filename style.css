@@ -7,12 +7,12 @@
 
 body{
     margin: 0;
-    background-color: #cd094e;
+    background-color: #0b0312;
      font-family: "Poppins", sans-serif;
 }
 
 header{
-    background-color: #0615de;
+    background-color: #19193c;
     padding: 1rem;
     display: flex;
     justify-content: flex-end;
